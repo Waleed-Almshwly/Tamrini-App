@@ -1,10 +1,22 @@
 <div align="center">
 
-# 📱 مؤقتي
+# 📱 Tamrini App
 
-تطبيق أندرويد يساعدك على تنظيم وإدارة أوقات الراحة والتدريب بسهولة.
+### Smart Training & Rest Timer App
 
-<img width="1200" height="475" alt="Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+A modern Android application designed to help users manage training schedules, rest periods, and workout timing with a clean Arabic interface.
+
+<br>
+
+<img src="screenshots/Home.png" width="230"/>
+<img src="screenshots/Temporary.png" width="230"/>
+<img src="screenshots/Training_schedules.png" width="230"/>
+
+<br><br>
+
+![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge)
+![UI](https://img.shields.io/badge/UI-Material%20Design-blue?style=for-the-badge)
 
 </div>
 
@@ -12,57 +24,77 @@
 
 # ✨ Features
 
-- ⏱️ إدارة أوقات الراحة
-- 📅 تنظيم الجداول التدريبية
-- 🎯 واجهة عربية جميلة
-- ⚡ أداء سريع وسهل الاستخدام
+✅ Manage workout schedules easily  
+✅ Smart rest period timer  
+✅ Clean and modern Arabic UI  
+✅ Fast and lightweight performance  
+✅ User-friendly experience  
 
 ---
 
-# 📸 لقطات الشاشة
+# 📸 Screenshots
 
 <div align="center">
 
-<img src="screenshots/Home.png" width="250"/>
-<img src="screenshots/Temporary.png" width="250"/>
-
-<br><br>
-
-<img src="screenshots/timer_periods.png" width="250"/>
-<img src="screenshots/Training_schedules.png" width="250"/>
+| Home Screen | Temporary Timer | Training Schedules |
+|------------|------------|------------|
+| <img src="screenshots/Home.png" width="220"/> | <img src="screenshots/Temporary.png" width="220"/> | <img src="screenshots/Training_schedules.png" width="220"/> |
 
 </div>
 
 ---
 
-# 🚀 Run Locally
+# 🚀 Getting Started
 
-## المتطلبات
+## Requirements
 
 - Android Studio
 - Android SDK
 - Kotlin Support
+- Gradle
 
 ---
 
-## خطوات التشغيل
+# ▶️ Run Locally
 
-1. افتح Android Studio
-2. اختر **Open**
-3. افتح مجلد المشروع
-4. انتظر حتى يتم تحميل Gradle
-5. شغل التطبيق على المحاكي أو الهاتف
+```bash
+git clone https://github.com/YOUR_USERNAME/Tamrini-App.git
+```
+
+1. Open the project in Android Studio  
+2. Wait for Gradle Sync  
+3. Run the app on Emulator or Physical Device  
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Built With
 
 - Kotlin
 - Android SDK
-- Material Design
+- Material Design Components
+- Gradle
+
+---
+
+# 📂 Project Structure
+
+```text
+app/
+screenshots/
+gradle/
+README.md
+```
 
 ---
 
 # 👨‍💻 Developer
 
-تم تطوير التطبيق بواسطة وليد.
+Developed with ❤️ by **Waleed**
+
+---
+
+<div align="center">
+
+⭐ Don't forget to star the repository if you like the project!
+
+</div>
