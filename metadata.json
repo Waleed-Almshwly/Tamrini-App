@@ -1,0 +1,6 @@
+{
+  "name": "تمريني",
+  "description": "تطبيق تمارين رياضية للمبتدئين يحتوي على جداول تدريبية منزلية ومؤقت تفاعلي ذكي لمساعدتك في تحقيق أهدافك البدنية بكل سهولة وأمان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
