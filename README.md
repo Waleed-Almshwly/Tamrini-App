@@ -23,13 +23,13 @@
 
 <div align="center">
 
-<img src="screenshots/home.png" width="250"/>
-<img src="screenshots/temporary.png" width="250"/>
+<img src="screenshots/Home.png" width="250"/>
+<img src="screenshots/Temporary.png" width="250"/>
 
 <br><br>
 
 <img src="screenshots/timer_periods.png" width="250"/>
-<img src="screenshots/training_schedules.png" width="250"/>
+<img src="screenshots/Training_schedules.png" width="250"/>
 
 </div>
 
